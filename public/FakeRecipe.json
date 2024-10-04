@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken with Basil",
+      "image": "https://i.ibb.co.com/pZ3FZcW/Grilled-Basil-Garlic-Chicken-2.jpg",
+      "short_description": "A simple and flavorful grilled chicken recipe with fresh basil and spices.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "50 g garlic",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetarian Pasta",
+      "image": "https://i.ibb.co.com/LYZ60kB/vegetarian-pasta-bake-86305-1.jpg",
+      "short_description": "A healthy and hearty vegetarian pasta with mixed vegetables and tomato sauce.",
+      "ingredients": [
+        "400 g pasta",
+        "150 g zucchini",
+        "200 g cherry tomatoes",
+        "100 g spinach",
+        "50 g parmesan"
+      ],
+      "preparing_time": 25,
+      "calories": 280
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Classic Beef Tacos",
+      "image": "https://i.ibb.co.com/gmXJz11/qtcu578og0gukdk-kb-rmg-gmi-hi-res-jpeg.webp",
+      "short_description": "Crispy tacos filled with seasoned beef, fresh vegetables, and toppings.",
+      "ingredients": [
+        "500 g ground beef",
+        "8 taco shells",
+        "150 g lettuce",
+        "100 g cheddar cheese",
+        "50 g sour cream"
+      ],
+      "preparing_time": 20,
+      "calories": 450
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Lemon Garlic Salmon",
+      "image": "https://i.ibb.co.com/Dknm87t/Garlic-Lemon-Salmon-Piccata-8.jpg",
+      "short_description": "A fresh and zesty salmon fillet with a lemon garlic butter sauce.",
+      "ingredients": [
+        "400 g salmon",
+        "2 tbsp butter",
+        "2 cloves garlic",
+        "1 lemon",
+        "2 tbsp parsley"
+      ],
+      "preparing_time": 35,
+      "calories": 390
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Mushroom Risotto",
+      "image": "https://i.ibb.co.com/GWQLkwr/Mushroom-Risotto-Recipe-1-1200.jpg",
+      "short_description": "A creamy and flavorful risotto with sautéed mushrooms and parmesan cheese.",
+      "ingredients": [
+        "400 g arborio rice",
+        "400 g mushroom",
+        "1 onion",
+        "100 ml white wine",
+        "50 g parmesan"
+      ],
+      "preparing_time": 45,
+      "calories": 500
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Chocolate Chip Cookies",
+      "image": "https://i.ibb.co.com/SvvhMNr/Chocolate-Chip-Cookies-Recipe.jpg",
+      "short_description": "Classic homemade chocolate chip cookies with a crispy exterior and gooey center.",
+      "ingredients": [
+        "200 g flour",
+        "100 g butter",
+        "100 g sugar",
+        "150 g chocolate chips",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": 15,
+      "calories": 300
+    }
+  ]
+  
